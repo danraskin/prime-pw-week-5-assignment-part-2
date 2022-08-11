@@ -1,0 +1,21 @@
+/*
+I've used style classes for css formatting in previous assignments, but did not include them here due to time!
+*/
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color:rgb(34, 33, 44);
+    color:rgb(248, 234, 212);
+    text-align: center;
+    padding: 20px 0px;
+}
+
+main {
+    padding: 1em;
+    background-image: url("../../christian-marclay-recycled-600x487.jpeg"); /* provided image was boring! */
+    background-repeat: repeat;
+    height: 100vh;
+}
